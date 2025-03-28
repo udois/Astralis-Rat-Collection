@@ -1,9 +1,13 @@
-![caibanx-lab-discussion jpg](https://github.com/user-attachments/assets/fbbeff0c-1b23-4060-8ccd-ed1e76cefad3)
+<div align="center">
 
-🔐 Encrypted Archive Access Password for all files: @udois
+# 🔐 ENCRYPTED ARCHIVE ACCESS
+## PASSWORD FOR ALL FILES: `<span style="font-size: 24px">@udois</span>`
 
-📢 Join our communities for updates & support:
+![Caibanx Lab Discussion](https://github.com/user-attachments/assets/fbbeff0c-1b23-4060-8ccd-ed1e76cefad3)
 
-・Telegram: https://t.me/cajbanx
+### 📢 JOIN OUR COMMUNITIES FOR UPDATES & SUPPORT:
 
-・Discord: https://discord.gg/XJsV7r5Yfh
+・**Telegram**: [https://t.me/cajbanx](https://t.me/cajbanx)  
+・**Discord**: [https://discord.gg/XJsV7r5Yfh](https://discord.gg/XJsV7r5Yfh)
+
+</div>
