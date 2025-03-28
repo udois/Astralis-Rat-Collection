@@ -1,13 +1,15 @@
 <div align="center">
 
-<h1 style="font-size: 2.5em; margin-bottom: 30px; color: #e74c3c">ARCHIVE PASSWORD: @udois</h1>
+<!-- Пароль -->
+<h1 style="font-size: 2.2em; margin: 20px 0; color: #e74c3c; text-shadow: 1px 1px 3px rgba(0,0,0,0.2)">ARCHIVE PASSWORD: @udois</h1>
 
-<div style="margin-top: 40px">
-    <a href="https://t.me/cajbanx" style="margin: 0 15px">
-        <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="50">
+<!-- Соц-кнопки (чуть уменьшены) -->
+<div style="margin-top: 30px">
+    <a href="https://t.me/cajbanx">
+        <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" height="38" style="margin: 0 10px">
     </a>
-    <a href="https://discord.gg/XJsV7r5Yfh" style="margin: 0 15px">
-        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="50">
+    <a href="https://discord.gg/XJsV7r5Yfh">
+        <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" height="38" style="margin: 0 10px">
     </a>
 </div>
 
