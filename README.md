@@ -1,11 +1,13 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/128066597/264610335-49e0a590-20fd-4b0a-b8e3-05e9aa137cdc.png" alt="Caibanx Lab" width="500" style="margin-bottom: 30px">
+<img src="https://user-images.githubusercontent.com/128066597/264610335-49e0a590-20fd-4b0a-b8e3-05e9aa137cdc.png" alt="Caibanx Lab" width="350">
 
-## 🔐 ARCHIVE PASSWORD: <strong style="font-size: 1.5em">@udois</strong>
+<h2 style="margin: 20px 0 10px">🔐 ARCHIVE PASSWORD: <strong style="font-size: 1.3em">@udois</strong></h2>
 
-### 📢 JOIN OUR COMMUNITIES:
-・**Telegram**: [https://t.me/cajbanx](https://t.me/cajbanx)  
-・**Discord**: [https://discord.gg/XJsV7r5Yfh](https://discord.gg/XJsV7r5Yfh)
+<p style="margin-top: 20px">
+<strong>📢 JOIN OUR COMMUNITIES:</strong><br>
+・Telegram: <a href="https://t.me/cajbanx">t.me/cajbanx</a><br>
+・Discord: <a href="https://discord.gg/XJsV7r5Yfh">discord.gg/XJsV7r5Yfh</a>
+</p>
 
 </div>
