@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Пароль -->
-<h1 style="font-size: 2.2em; margin: 20px 0; color: #e74c3c; text-shadow: 1px 1px 3px rgba(0,0,0,0.2)">ARCHIVE PASSWORD: @udois</h1>
+<h1 style="font-size: 2.2em; margin: 20px 0; color: #e74c3c; text-shadow: 1px 1px 3px rgba(0,0,0,0.2)">Archive Password: @udois</h1>
 
 <!-- Соц-кнопки (чуть уменьшены) -->
 <div style="margin-top: 30px">
