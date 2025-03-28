@@ -1,33 +1,35 @@
-<div align="center" style="font-family: Arial, sans-serif">
+<div align="center" style="font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto">
 
-<!-- Уменьшенная картинка -->
+<!-- Миниатюрная картинка -->
 <img src="https://user-images.githubusercontent.com/128066597/264610335-49e0a590-20fd-4b0a-b8e3-05e9aa137cdc.png" 
      alt="Caibanx Lab" 
-     width="200"
-     style="border-radius: 10px; margin-bottom: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1)">
+     width="180"
+     style="border-radius: 8px; margin-bottom: 10px">
 
-<!-- Бейдж размера репозитория -->
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/yourrepo?style=for-the-badge&label=REPO+SIZE&color=blueviolet)
-
-<!-- Крупный выделенный пароль -->
-<div style="margin: 25px 0; background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); 
-            padding: 15px 30px; border-radius: 8px; display: inline-block">
-    <h1 style="margin: 0; font-size: 2em; color: #2c3e50">🔐 ARCHIVE PASSWORD:</h1>
-    <div style="font-size: 2.8em; font-weight: 800; color: #e74c3c; letter-spacing: 1px">@udois</div>
+<!-- Главный акцент на пароле -->
+<div style="background: #f8f9fa; padding: 15px; border-radius: 8px; margin: 15px 0">
+    <div style="font-size: 1.8em; font-weight: 600; color: #333">ARCHIVE PASSWORD:</div>
+    <div style="font-size: 2.5em; font-weight: 800; color: #d63031; letter-spacing: 1px; margin-top: 5px">@udois</div>
 </div>
 
-<!-- Увеличенные сочные кнопки соцсетей -->
-<div style="margin-top: 20px">
-    <a href="https://t.me/cajbanx" style="text-decoration: none; margin: 0 10px">
-        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" 
-             alt="Telegram" 
-             style="height: 45px">
+<!-- Компактные кнопки -->
+<div style="margin: 20px 0">
+    <a href="https://t.me/cajbanx" style="margin: 0 8px">
+        <img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white&style=flat-square" height="28">
     </a>
-    <a href="https://discord.gg/XJsV7r5Yfh" style="text-decoration: none; margin: 0 10px">
-        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" 
-             alt="Discord" 
-             style="height: 45px">
+    <a href="https://discord.gg/XJsV7r5Yfh" style="margin: 0 8px">
+        <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=flat-square" height="28">
     </a>
+</div>
+
+<!-- Текстовая информация -->
+<div style="font-size: 0.9em; color: #555; line-height: 1.5; text-align: left; margin-top: 20px">
+    <p>Contributions welcome, please open a pull request if you have anything to add.</p>
+    <p>Open discussion/questions about this repository on GitHub.</p>
+    
+    <p>Some larger samples are split, to unpack please use <a href="https://www.7-zip.org/download.html">7-Zip</a>.</p>
+    
+    <p><em>I disclaim all liability for any issues arising from the use of these samples. By downloading, you acknowledge doing so at your own risk and agree to use them lawfully and solely for research purposes.</em></p>
 </div>
 
 </div>
