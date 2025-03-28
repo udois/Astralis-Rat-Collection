@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🔐 ENCRYPTED ARCHIVE ACCESS
-## PASSWORD FOR ALL FILES: `<span style="font-size: 24px">@udois</span>`
+## PASSWORD FOR ALL FILES: @udois
 
 ![Caibanx Lab Discussion](https://github.com/user-attachments/assets/fbbeff0c-1b23-4060-8ccd-ed1e76cefad3)
 
