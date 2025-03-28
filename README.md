@@ -1,9 +1,9 @@
 <div align="center">
 
 # 🔐 ENCRYPTED ARCHIVE ACCESS
-## PASSWORD FOR ALL FILES: @udois
+## PASSWORD FOR ALL FILES: `<span style="font-size: 1.2em">@udois</span>`
 
-![Caibanx Lab Discussion](https://github.com/user-attachments/assets/fbbeff0c-1b23-4060-8ccd-ed1e76cefad3)
+<img src="https://github.com/user-attachments/assets/fbbeff0c-1b23-4060-8ccd-ed1e76cefad3" alt="Caibanx Lab Discussion" width="450"/>
 
 ### 📢 JOIN OUR COMMUNITIES FOR UPDATES & SUPPORT:
 
