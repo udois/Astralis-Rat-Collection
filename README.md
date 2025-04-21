@@ -5,10 +5,10 @@
 
 <!-- Соц-кнопки (чуть уменьшены) -->
 <div style="margin-top: 30px">
-    <a href="https://t.me/cajbanx">
+    <a href="https://t.me/astraliscv">
         <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" height="38" style="margin: 0 10px">
     </a>
-    <a href="https://discord.gg/XJsV7r5Yfh">
+    <a href="https://discord.gg/HysmUy7dt7">
         <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" height="38" style="margin: 0 10px">
     </a>
 </div>
